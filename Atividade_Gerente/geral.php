@@ -76,7 +76,7 @@
 						$imagem = $dados['Foto'];
 					}
 					$codigo = base64_encode($dados['codigo']);
-					echo "<td align='center'><a href='verproduto.php?codigo=$codigo'><img src='imagens/$imagem' width='70px' heigth='70px'></a>";
+					echo "<td align='center'><a href='vergerente.php?codigo=$codigo'><img src='imagens/$imagem' width='70px' heigth='70px'></a>";
 					echo "</tr>";
 				}
 				echo "</table>";
