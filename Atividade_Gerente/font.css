@@ -1,0 +1,29 @@
+*{
+    color: white;
+}
+label{
+    color: black;
+}
+input{
+    color:black;
+    font-weight: bold;
+}
+body{
+    background-image: linear-gradient(120deg, #2980b9, #8e44ad);
+}
+button{
+    margin-bottom: 100px;
+}
+.registros{
+    font-size: 100px;
+}
+.centro{
+    text-align: center;
+}
+select[option]{
+    color:black;
+}
+.preto{
+    color:black;
+    font-weight: bold;
+}
