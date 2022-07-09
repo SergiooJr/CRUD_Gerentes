@@ -24,4 +24,33 @@ Porém estarei disponibilizando um PDF com vários exemplos de estruturas de tab
     
 >![tutorial_xampp](https://user-images.githubusercontent.com/108547472/178083260-029ed6f8-08cf-466b-8a28-717a20da3020.png)
 
-3. Agora no navegador digitamos `localhost` e abrimos a pasta `Atividade_Gerente`
+3. Para tudo rodar como o planejado, não podemos esquecer de entrar no __"xampp-control"__ e ativarmos o "Apache" e  o "MySQL".
+
+>![control](https://user-images.githubusercontent.com/108547472/178083606-100ca300-8edc-4a32-89e2-9f79b81873aa.png)
+
+### Criando o banco de dados
+
+Precisamos entrar no phpmyadmin.
+
+Para isso, podemos: 
+   1. Ainda no xampp control, clicamos em "Admin" do MySQL,
+   2. Ou digitar `localhost/phpmyadmin` na barra de pesquisa.
+   
+Clicamos em "SQL", copiamos e colamos as informações do arquivo "tabelaGerente.sql" e executamos.
+
+>![copiaecola](https://user-images.githubusercontent.com/108547472/178084549-2425f0d7-b9e2-4d9b-aecc-4d7661443acf.png)
+
+Se a execução ocorrer bem, estamos terminando...
+
+### Para finalizar
+
+No navegador digitamos `localhost` e abrimos a pasta `Atividade_Gerente`
+
+>![localhost](https://user-images.githubusercontent.com/108547472/178083465-4e28623e-bc36-4b19-8be2-d20c463ba399.png)
+
+Está é a tela inicial
+
+>![telainicial](https://user-images.githubusercontent.com/108547472/178084719-afb4afb0-5eb4-4fe0-9c53-ccc106bc2f78.png)
+
+
+Faça bom proveito do projeto! 🤝😃
